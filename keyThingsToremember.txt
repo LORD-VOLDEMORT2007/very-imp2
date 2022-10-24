@@ -1,0 +1,13 @@
+
+
+VERY IMPORTANT
+{when this "$("#uploader-class1").val()" returns a img and it gets 
+stored in a folder then a var gets activated only then the image is displayed}
+
+DONT FORGET
+{the size of ever images should be same} 
+
+so in the python file i first create a folder called training images and and inside that to 
+folders clled class1 and class2 and put my class1 imgs in class1 folder and class2 in class2 folder
+and then i present it to the augmentation
+
